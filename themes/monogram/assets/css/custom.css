@@ -9460,43 +9460,43 @@ div#blockcart-modal .modal-header .close {
   body#checkout .cart-item .product-line-grid .remove-from-cart,
   body#checkout .cart-item .product-line-grid .button_qty,
   body#checkout #checkout-guest-form .form-group.newsletter.check_label_field,*/
-  #header .header-nav .blockcart + .blockcart,
-  body#checkout .step_CheckoutAddressesStep #paiement_express,
-  body#checkout .step_CheckoutDeliveryStep #paiement_express,
-  body#checkout .step_CheckoutPaymentStep #paiement_express,
-  body#checkout section.checkout-step .carrier-delay,
-  .delivery-option .carrier_delay,
-  body#checkout #checkout-personal-information-step.-complete,
-  body#checkout #checkout-delivery-step.-complete .continue,
-  .span_step_title.hidden-md-up,
-  #checkout-payment-step .span_step_title,
-  body#checkout section#checkout-payment-step .nos_transactions,
-  div#blockcart-modal #oui_blockcart-modal-cross,
-  body#cart .cart_grid_right,
-  body#checkout .step_guest_open .mobile_checkout_login_form,
-  body#checkout .step_guest_open .nav_item_ou,
-  body#checkout section.checkout-step.-unreachable .step-title,
-  body#checkout #checkout-personal-information-step.-current .step-title,
-  .mobiletab .mobiletab_content,
-  body#checkout .form-group.alias,
-  body#checkout .form-group.phone,
-  body#checkout .form-group.address2,
-  body#checkout .form-group.vat_number,
-  body#checkout .form-group.company,
-  .order_contentbox .card-block.cart-summary-totals,
-  .paiement_express .checkout_ou,
-  #onglets_express,
-  body#checkout .order_contentbox .possibilite_livraison,
-  body#checkout .review_yourorder,
-  #blockcart-modal .cart-content .cartmodal_buttons button,
-  #blockcart-modal .cart-content .paiement_possible,
-  #blockcart-modal .cart-content .possibilite_livraison,
-  .subtotal_cart .possibilite_livraison,
-  div#blockcart-modal .modal-title .blockcart i,
-  .cartmodalonall,
-  .checkout_voucher_mobile {
-    display: none;
-  }
+  /*#header .header-nav .blockcart + .blockcart,*/
+  /*body#checkout .step_CheckoutAddressesStep #paiement_express,*/
+  /*body#checkout .step_CheckoutDeliveryStep #paiement_express,*/
+  /*body#checkout .step_CheckoutPaymentStep #paiement_express,*/
+  /*body#checkout section.checkout-step .carrier-delay,*/
+  /*.delivery-option .carrier_delay,*/
+  /*body#checkout #checkout-personal-information-step.-complete,*/
+  /*body#checkout #checkout-delivery-step.-complete .continue,*/
+  /*.span_step_title.hidden-md-up,*/
+  /*#checkout-payment-step .span_step_title,*/
+  /*body#checkout section#checkout-payment-step .nos_transactions,*/
+  /*div#blockcart-modal #oui_blockcart-modal-cross,*/
+  /*body#cart .cart_grid_right,*/
+  /*body#checkout .step_guest_open .mobile_checkout_login_form,*/
+  /*body#checkout .step_guest_open .nav_item_ou,*/
+  /*body#checkout section.checkout-step.-unreachable .step-title,*/
+  /*body#checkout #checkout-personal-information-step.-current .step-title,*/
+  /*.mobiletab .mobiletab_content,*/
+  /*body#checkout .form-group.alias,*/
+  /*body#checkout .form-group.phone,*/
+  /*body#checkout .form-group.address2,*/
+  /*body#checkout .form-group.vat_number,*/
+  /*body#checkout .form-group.company,*/
+  /*.order_contentbox .card-block.cart-summary-totals,*/
+  /*.paiement_express .checkout_ou,*/
+  /*#onglets_express,*/
+  /*body#checkout .order_contentbox .possibilite_livraison,*/
+  /*body#checkout .review_yourorder,*/
+  /*#blockcart-modal .cart-content .cartmodal_buttons button,*/
+  /*#blockcart-modal .cart-content .paiement_possible,*/
+  /*#blockcart-modal .cart-content .possibilite_livraison,*/
+  /*.subtotal_cart .possibilite_livraison,*/
+  /*div#blockcart-modal .modal-title .blockcart i,*/
+  /*.cartmodalonall,*/
+  /*.checkout_voucher_mobile {*/
+  /*  display: none;*/
+  /*}*/
   .productactions{
     margin-bottom: 0;
   }

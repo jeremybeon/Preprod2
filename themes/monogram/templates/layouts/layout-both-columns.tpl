@@ -1068,52 +1068,7 @@
       });*/
 
         /* Gestion formulaire sur mobile*/
-        $('.modify_qty').click(function() {
-          $('body#checkout .cart-item').removeClass('showqtyfield');
-          $('body#checkout .modify_qty').removeClass('active');
-          if ($(this).hasClass('active')) {
-            $(this).removeClass('active').parents('.cart-item').removeClass('showqtyfield');
-          } else {
-            $(this).addClass('active').parents('.cart-item').addClass('showqtyfield');
-          }
-        });
 
-        $('.mono_user_account_mobile .user_tabtitle').click(function() {
-          var usermode = $(this).attr('data-tab');
-          $('.user_tabtitle').removeClass('active');
-          $('.mobiletab_content').removeClass('open');
-          if ($(this).hasClass('active')) {
-            $(this).parents('.mono_user_account_mobile').find('.mobiletab_content').removeClass('open');
-            $(this).removeClass('active');
-          } else {
-            $(this).parents('.mono_user_account_mobile').find(usermode + '.mobiletab_content').addClass('open');
-            $(this).addClass('active');
-          }
-
-          if ($('.step_guest').hasClass('active')) {
-            $(this).parents('.mono_user_account_mobile').addClass('step_guest_open');
-          } else {
-            $(this).parents('.mono_user_account_mobile').removeClass('step_guest_open');
-          }
-        });
-
-        if ($('#checkout-delivery-step,#checkout-payment-step').hasClass('js-current-step')) {
-          $('.checkout_btn').removeClass('active');
-          $('body#checkout').find('.infos_paiement').addClass('active');
-        }
-
-        $('body#checkout .step-edit').click(function() {
-          if ($('#checkout-delivery-step,#checkout-payment-step').hasClass('js-current-step')) {
-            $('.checkout_btn').removeClass('active');
-            $('body#checkout').find('.infos_paiement').addClass('active');
-          } else {
-            $('.checkout_btn').removeClass('active');
-            $('body#checkout').find('.infos_cart').addClass('active');
-          }
-        });
-
-        $('body#checkout #checkout-delivery-step.-complete').next('.checkout-step').addClass(
-          '-current -reachable js-current-step -clickable');
 
       });
     </script>

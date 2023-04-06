@@ -1,41 +1,5 @@
 /* Start - Checkout */
-@media (max-width: 767px) {
-	body#checkout .modal-content {
-	    height: auto !important;
-	}
-	body#checkout section#checkout-payment-step {
-	    padding-bottom: 0px !important;
-	}
-	.checkout_login_title .separator {
-    	margin: 0px 5px !important;
-	}
-	.cart-items {
-	    padding: 0.2rem 0 !important;
-	}
-	.product-line-grid-body > .product-line-info_name > .label{
-		font-size: 15px !important;
-		line-height: 17px !important;
-	}
-	body#checkout section.checkout-step .carrier-name {
-    letter-spacing: -0.4px !important;
-	}
-	.condition-label label{
-		font-size: 12px !important;
-	}
-	.carrier_address__texte{
-		line-height: 15px !important;
-	}
-	.carrier-name .span{
-		font-family: 'apercbold' !important;
-	}
-	body#checkout section.checkout-step .carrier-name {
-    	font-size: 16px;
-    	letter-spacing: -0.5px !important;
-	}
-}
-a.pp__text-primary {
-	display: none;
-}
+
 /* End - Checkout */
 /* Start - News du jour bloc */
 .newProductHome {
@@ -104,9 +68,7 @@ h2.ets_crosssell_title {
 }
 /* Custom Checkout */
 @media (max-width: 999px) {
-	div#bottom_cart_r .alma-payment-plans-container {
-	    display: none;
-	}
+
 }
 /* Ajout style Header */
 .header-banner .banner_texte, .sticky .banner_texte{

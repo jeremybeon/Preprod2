@@ -798,25 +798,13 @@ $(document).ready(function () {
         manageLogin();
     }
 
-    // $('#checkout-payment-step .ps-shown-by-js:checked').parents('.payment_option').addClass('checked_option');
-    // $('#checkout-payment-step .payment-options .ps-shown-by-js').on('click', function () {
-    //     $('.payment_option').removeClass('checked_option');
-    //     $(this).parents('.payment_option').addClass('checked_option');
-    // });
 
 
     $('.hidden-sm-down.custom-radio #payment-option-1, .hidden-md-up.custom-radio #payment-option-1').prop('checked', true).parents('.payment_option').addClass('checked_option');
-    $('#checkout-payment-step .payment-options .ps-shown-by-js').on('click', function () {
-        $('.payment_option').removeClass('checked_option');
-        $(this).parents('.payment_option').addClass('checked_option');
-    });
 
 
-    $('#checkout-delivery-step .delivery-option input:checked').parents('.delivery-option').addClass('checked_option');
-    $('#checkout-delivery-step .delivery-option input').on('click', function () {
-        $('.delivery-option').removeClass('checked_option');
-        $(this).parents('.delivery-option').addClass('checked_option');
-    });
+
+
 
     /*if ($('body#product').length > 0) {
         $('#zoomimg').ezPlus({
@@ -980,14 +968,9 @@ $(document).ready(function () {
         $('input[name="customer_privacy"], input[name="psgdpr"]').prop("checked", true).attr('disabled', 'disabled').attr('readonly', 'readonly');
     }
 
-    if ($('#checkout').length) {
-        $('.user_logged_1 input[name="customer_privacy"], .user_logged_1 input[name="psgdpr"]').prop("checked", true).attr('disabled', 'disabled').attr('readonly', 'readonly');
-    }
+
 
     // supprimer cela pour le guest
-    $('#checkout-guest-form input[name="customer_privacy"], #checkout-guest-form input[name="psgdpr"]').removeAttr('disabled').removeAttr('readonly').removeAttr('required');
-    $('#checkout-guest-form input[name="customer_privacy"], #checkout-guest-form input[name="psgdpr"]').prop("checked", true).attr('checked', true);;
-    $('#checkout-guest-form .form-group.customer_privacy, #checkout-guest-form .form-group.psgdpr').hide();
 
     /* Slide reassurance */
     $('.slicksliderrce').slick({

@@ -1,0 +1,31 @@
+[/{shop_url}] 
+
+Bonjour {firstname} {lastname},
+
+Votre compte a été mis à jour {shop_name} avec {social}.
+
+Vos codes données :
+
+ADRESSE E-MAIL : {email}
+
+NOM : {lastname}
+
+PRENOM : {firstname}
+
+Conseils de sécurité importants :
+
+* Vos informations de compte doivent rester confidentielles.
+
+* Ne les communiquez jamais à qui que ce soit.
+
+* Changez votre mot de passe régulièrement.
+
+* Si vous pensez que quelqu'un utilise votre compte illégalement,
+veuillez nous prévenir immédiatement.
+
+Vous pouvez dès à présent passer commande sur notre boutique :
+{shop_name} [/{shop_url}] 
+
+{shop_name} [/{shop_url}] réalisé avec PrestaShop(tm)
+[http://www.prestashop.com/] 
+

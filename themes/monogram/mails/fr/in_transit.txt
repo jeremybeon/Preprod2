@@ -1,0 +1,21 @@
+Bonjour {firstname},
+
+Nous sommes heureux de vous confirmer l’envoi de votre commande n°{order_name}.
+
+ Son numéro de suivi est le : {followup}
+Selon l’option de livraison choisie, il est possible que les informations de suivi de colis ne soient pas mises à jour instantanément. Nous vous invitons à consulter le lien dans les prochaines 24h.
+
+Retrouvez ces informations en vous connectant à votre compte sur votre espace Monogram. 
+
+Vous pouvez accéder à tout moment au suivi de votre commande et
+télécharger votre facture dans "Historique des commandes"
+[{history_url}] de la rubrique "Mon compte"
+[{my_account_url}] sur notre site. 
+
+Si vous avez un compte invité, vous pouvez suivre votre commande
+dans la section "Suivi invité"
+[{guest_tracking_url}?id_order={order_name}] de
+notre site. 
+
+{shop_name} [{shop_url}]
+

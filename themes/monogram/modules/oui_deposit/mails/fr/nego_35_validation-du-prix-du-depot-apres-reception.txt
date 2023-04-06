@@ -1,0 +1,23 @@
+Bonjour {firstname},
+
+Félicitations, suite à la réception de votre article, votre dépôt n° {id_depot} {depot_descriptif_total} a bien été validé par notre équipe au prix de {wholesale_price} euros nets pour vous.
+
+Votre article est en train d’être photographié sous toutes ses coutures par notre équipe, afin d’être la nouvelle star du jour ! Il sera mis en ligne sous les plus brefs délais.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

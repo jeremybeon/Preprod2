@@ -1,0 +1,25 @@
+Bonjour {firstname},
+
+Félicitations, suite à la réception de votre article, votre article {id_depot} a bien été validé par notre équipe au prix de {wholesale_price} € nets pour vous.
+
+Votre portefeuille virtuel sera crédité d’un montant de {wholesale_price} € visible sous 5 jours ouvrés dans votre compte, section « Mon porte-feuille virtuel ».
+Une fois le montant reçu, vous serez libre de virer cette somme directement sur votre compte bancaire, ou de vous faire plaisir en la convertissant en bon d’achat chez Monogram.
+
+Merci pour votre confiance, 
+
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

@@ -1,0 +1,32 @@
+DEMANDE DE DÉPÔT
+
+Bonjour {firstname},
+
+Nous nous permettons de revenir vers vous concernant votre article n° {id_depot}.
+
+Nous vous invitons à venir le récupérer sous 15 jours ou nous vous proposons de lui donner « une dernière chance ».
+
+Malheureusement nous avons tenté de remettre en avant votre article à de nombreuses reprises, il semblerait que le problème vienne du prix.
+
+Nous souhaitons lui donner «une dernière chance» en mettant un prix de dépôt à 50€ net pour vous afin de le vendre en dessous de la barrière des 100 €.
+
+Nous restons à votre disposition.
+
+Merci pour votre confiance, 
+
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hi {firstname} {lastname},
+
+Votre offre à été validé sur {shop_name} avec les caractéristiques suivantes
+
+Produit: {product_name}
+Prix aprouvé: {admin_price}
+
+[Commander le produit]({product_link})
+avec le code promo suivant : {code}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

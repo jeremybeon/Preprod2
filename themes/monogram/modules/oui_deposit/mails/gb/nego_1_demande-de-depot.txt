@@ -1,0 +1,31 @@
+DEMANDE DE DÉPÔT
+
+Bonjour {firstname} {lastname},
+
+Votre demande de dépôt a bien été envoyée à notre équipe le {date_add_depot}. 
+
+Le numéro de dépôt est le {id_depot}.
+
+Voici le descriptif de votre demande de dépôt : 
+{depot_descriptif_total}
+{depot_images}
+
+
+Notre réponse vous parviendra sous 48h (2 jours ouvrés) à partir du 23 août.
+
+Merci pour votre confiance, 
+
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}

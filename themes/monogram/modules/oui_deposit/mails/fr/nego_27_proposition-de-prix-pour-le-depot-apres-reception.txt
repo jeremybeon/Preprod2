@@ -1,0 +1,25 @@
+Bonjour {firstname},
+
+Nous avons bien réceptionné votre article n° {id_depot} {depot_descriptif_total}.
+Toutefois, ses caractéristiques ne nous permettent pas de valider le prix de {prix_demande} € convenu initialement.
+
+Nous souhaitons vous faire une nouvelle proposition de {prix_proposition} € net pour vous.
+Pour valider notre proposition et mettre en vente votre article au plus vite sur notre site, veuillez vous connecter à votre compte dans la section « Mes Dépôts »..
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

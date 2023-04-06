@@ -1,0 +1,31 @@
+Bonjour {firstname},
+
+Nous sommes ravis de vous accueillir dans notre showroom le : {date_heure_rdv}
+
+ Merci de vous munir d’une pièce d’identité qui vous sera demandée lors de votre arrivée.
+
+Voici l’adresse du showroom :
+
+12-14, avenue Victor Hugo - 75016 Paris.
+contact@monogramparis.com
+01 72 60 01 61
+
+Métro : Métro Charles De Gaulle - Etoile (ligne 1/2/6)
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

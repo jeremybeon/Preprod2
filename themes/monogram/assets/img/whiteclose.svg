@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.833" height="18.833" viewBox="0 0 18.833 18.833" fill="white">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="18.833" height="18.833" fill="white"/>
+    </clipPath>
+  </defs>
+  <g id="icn_croix-noire" data-name="icn/croix-noire" opacity="1" clip-path="url(#clip-path)">
+    <g id="icn_croix-noire-2" data-name="icn/croix-noire" transform="translate(-0.333 0)">
+      <g id="Close_Expand" data-name="Close + Expand">
+        <g id="Close">
+          <path id="Close-2" data-name="Close" d="M16.841,18.491,9.416,11.066,1.992,18.491a1.167,1.167,0,0,1-1.65-1.65L7.767,9.416.342,1.992A1.167,1.167,0,0,1,1.992.342L9.416,7.767,16.841.342a1.167,1.167,0,0,1,1.65,1.65L11.066,9.416l7.425,7.425a1.167,1.167,0,1,1-1.65,1.65Z" transform="translate(0.333)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Merci de faire vos achats chez {shop_name} !
+
+Votre compte a été {sub_text} d'un montant de {amount}.
+
+[{shop_name}]({shop_url})
+
+Propulsé par [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

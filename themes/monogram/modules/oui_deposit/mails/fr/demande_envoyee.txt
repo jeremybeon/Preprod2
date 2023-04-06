@@ -1,0 +1,5 @@
+{title_mail} chez {shop_name}
+
+{intro_depot}: 
+
+{depot_content_txt}

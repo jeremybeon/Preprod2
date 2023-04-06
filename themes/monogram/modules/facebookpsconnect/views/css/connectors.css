@@ -1,0 +1,45 @@
+
+#fbpsc.displayTop{display: inline-block;z-index: 999999;text-align: center !important;width: 100%;padding:10px 10px 10px 10px;margin:0px 0px 0px 0px;color:#333333;font-size:15px;background:#FFFFFF;border:2px solid #f1f1f1;text-align:center;}
+#fbpsc.displayFooter{display: inline-block;z-index: 999999;text-align: center !important;width: 100%;padding:10px 10px 10px 10px;margin:0px 0px 0px 0px;color:#333333;font-size:15px;background:#FFFFFF;border:2px solid #FFFFFF;text-align:center;}
+#fbpsc.authentication{
+  justify-content: center;
+  margin-bottom: 20px;
+}
+#fbpsc.authentication .btn-connect{
+	
+}
+.customer_boxform .connects_links{
+
+}
+#fbpsc.authentication .btn-connect{
+  	box-shadow: 0px 3px 10px #0000000b;
+	min-width: 180px;
+	text-align: center;
+	line-height: normal;
+	margin: 0 8px;
+	  margin-bottom: 0px;
+	display: inline-block;
+	color: #000;
+	background: #fff;
+	text-decoration: none;
+	border: none;
+	max-width: calc(50% - 16px);
+	padding: 25px 10px;
+	width: auto;
+	border-radius: 5px;
+}
+#fbpsc .btn-connect .fa{
+	display: none;
+}
+#fbpsc .btn-connect .btn-title-connect {
+  	padding-left: 45px;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 32px;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: 0 center;
+}
+
+#fbpsc.blockUser{display: inline-block;z-index: 999999;text-align: center !important;width: 100%;padding:10px 10px 10px 10px;margin:0px 0px 0px 0px;color:#333333;font-size:15px;background:#FFFFFF;border:2px solid #FFFFFF;text-align:center;}
+#fbpsc.orderFunnel{display: inline-block;z-index: 999999;text-align: center !important;width: 100%;padding:10px 10px 10px 10px;margin:0px 0px 0px 0px;color:#333333;font-size:15px;background:#FFFFFF;border:2px solid #FFFFFF;text-align:center;}

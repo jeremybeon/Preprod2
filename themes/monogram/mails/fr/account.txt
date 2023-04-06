@@ -1,0 +1,26 @@
+Bonjour {firstname},
+
+Nous sommes heureux de vous accueillir au sein de notre communauté.
+
+Vous pouvez dès maintenant vous connecter sur notre site avec vos identifiants :
+
+Adresse mail : {email}
+
+
+
+Conseils de sécurité importants :
+
+* Vos informations de compte doivent rester confidentielles.
+
+* Ne les communiquez jamais à qui que ce soit.
+
+* Changez votre mot de passe régulièrement.
+
+* Si vous pensez que quelqu'un utilise votre compte illégalement,
+veuillez nous prévenir immédiatement.
+
+Vous pouvez dès à présent passer commande sur notre boutique :
+{shop_name} [{shop_url}] 
+
+{shop_name} [{shop_url}]
+

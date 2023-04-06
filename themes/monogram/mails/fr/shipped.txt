@@ -1,0 +1,18 @@
+Bonjour {firstname},
+
+Nous sommes heureux de vous annoncer que votre commande n°{order_name} vient d'être expédiée.
+
+Retrouvez ces informations en vous connectant à votre compte sur votre espace Monogram.
+
+Merci pour votre confiance, 
+L'équipe Monogram.
+
+
+
+Vous pouvez accéder à tout moment au suivi de votre commande et
+télécharger votre facture dans "Historique des commandes"
+[{history_url}] de la rubrique "Mon compte"
+[{my_account_url}] sur notre site. 
+
+{shop_name} [{shop_url}]
+

@@ -1,0 +1,20 @@
+ 
+
+{shop_url}
+
+Hi,
+
+Une nouvelle offre vient d'être passée sur {shop_name}
+
+Informations
+Client: {firstname} {lastname}
+Email: {email}
+Produit: {product_name}
+Prix du client: {customer_price}
+
+[Valider l'offre du client]({valid_customer_offer})
+[Modifier l'offre du client]({edit_customer_offer})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

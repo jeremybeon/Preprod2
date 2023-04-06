@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="85998829-1118-4503-8e9e-c04a912eaedb" name="preprod2mngrm">
+        <fileTransfer rootFolder="/var/www/preprod2.monogramparis.com" accessType="SFTP" host="vmmonogramparis.772424.hosting" port="18196" sshConfigId="f265b5fa-d807-4249-b5ce-855a720572aa" sshConfig="www-data@vmmonogramparis.772424.hosting:18196 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

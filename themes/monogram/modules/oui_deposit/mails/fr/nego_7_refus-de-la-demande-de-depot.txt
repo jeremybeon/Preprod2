@@ -1,0 +1,23 @@
+Bonjour {firstname},
+
+Malheureusement votre article {depot_descriptif_total} ne correspond pas aux critères de sélection de notre catalogue.
+
+Nous vous invitons à nous proposer de nouvelles pièces de votre dressing, nous sommes sûrs que votre vestiaire cache encore de petits trésors !
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

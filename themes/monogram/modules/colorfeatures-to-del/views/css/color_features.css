@@ -1,0 +1,6 @@
+section.facet.af_facet_features li {
+    float: left;
+}
+section.facet.af_facet_features li label.facet-label a  {
+    display: none !important;
+}

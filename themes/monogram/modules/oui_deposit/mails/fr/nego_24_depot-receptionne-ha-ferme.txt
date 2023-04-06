@@ -1,0 +1,33 @@
+Bonjour {firstname},
+
+Nous avons bien reçu votre article n° {id_depot} {depot_descriptif_total}
+
+Les prochaines étapes :
+
+	
+- VALIDATION DÉFINITIVE DU PRIX DE VOTRE ARTICLE
+Nos experts vérifient la conformité et l’authenticité de votre produit afin de revenir vers vous avec une proposition de prix net pour vous.
+
+- MISE EN LIGNE
+ Votre article est photographié sous toutes ses coutures par notre équipe afin d’être la nouvelle star du jour, pour être mis en ligne au plus vite.
+
+- VENDEZ CLÉ EN MAIN
+Patientez tranquillement qu’un acheteur ait le coup de coeur sur votre article, et recevez directement le montant de l’achat net sur votre porte-feuille virtuel !
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

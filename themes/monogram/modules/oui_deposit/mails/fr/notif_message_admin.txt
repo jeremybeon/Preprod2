@@ -1,0 +1,8 @@
+Bonjour, 
+
+Vous avez reçu une réponse de {firstname} {lastname}, au sujet de depot :
+#{id_depot}
+{depot}
+
+Voici le contenu du message
+{message}

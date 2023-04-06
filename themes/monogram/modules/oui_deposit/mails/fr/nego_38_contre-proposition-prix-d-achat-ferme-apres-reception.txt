@@ -1,0 +1,25 @@
+Bonjour {firstname},
+
+Nous souhaitons vous faire une nouvelle proposition de {prix} € net pour vous, pour l'achat de votre article n° {id_depot}.
+
+Pour valider notre proposition et nous vendre votre article, veuillez vous connecter à votre compte dans la section « Mes Dépôts ».
+
+Notre réponse vous parviendra sous 48h (2 jours ouvrés).
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

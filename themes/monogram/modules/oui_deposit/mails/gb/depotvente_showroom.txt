@@ -1,0 +1,6 @@
+Bonjour,
+merci de votre dépôt de ce jour ! Vous avez déposé 1 articles aujourd'hui :
+
+{message}
+
+L'équipe ByLuxe		

@@ -1,0 +1,53 @@
+DEPOSIT REQUEST
+
+Hello {firstname} {lastname},
+
+Your deposit request has been sent to our team on {date_add_depot}. 
+
+The deposit number is {id_depot}.
+
+Here is the description of your deposit request:
+{depot_descriptif_total}
+{depot_images}
+
+
+/*
+liste des variables 
+{agenda_url}
+{customer_mail}
+{customer_phone}
+{date_add_depot}
+{date_heure_rdv}
+{depot_descriptif_total}
+{depot_images}
+{firstname}
+{id_depot}
+{lastname}
+{my_account_url}
+{prix}
+{shop_logo}
+{shop_name}
+{shop_url}
+*/
+
+
+Our response will reach you within 48 hours (2 working days).
+
+Thank you for your trust,
+
+See you soon on our site,
+
+MONOGRAM Paris team
+
+------Your account--------
+
+Here is your account* : 
+First name : {firstname}
+Last name : {lastname}
+Email : {customer_mail}
+Phone : {customer_phone}
+
+*If you notice an error, please log into your customer account and correct the information. 
+{my_account_url}
+
+

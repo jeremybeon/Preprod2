@@ -1,0 +1,24 @@
+Bonjour {firstname},
+
+Nous sommes désolés que vous n’ayez pas accepté notre proposition de baisse de prix pour votre article n° {id_depot} {depot_descriptif_total}.
+Si vous changez d’avis, il n’est pas trop tard pour vous rendre dans votre espace client et demander une baisse, afin de booster la vente de votre article.
+
+Si vous avez des questions, vous pouvez nous contacter au 01 72 60 01 61 ou via notre adresse mail contact@monogramparis.com.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

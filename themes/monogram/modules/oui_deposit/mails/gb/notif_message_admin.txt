@@ -1,0 +1,11 @@
+Bonjour, 
+Vous avez reçu un message de {firstname} {lastname}, au sujet de depot #{depot}
+
+Voici le contenu du message
+{message}
+
+Rebecca Ruimy
+
+Contact: 
++33 (0) 1 80 06 37 92
+contact@byluxe.fr

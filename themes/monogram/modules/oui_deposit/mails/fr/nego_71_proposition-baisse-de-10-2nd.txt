@@ -1,0 +1,25 @@
+Bonjour {firstname},
+
+Malgré tous nos efforts, votre article n’a pas encore été vendu depuis plus de 30 jours. Ne perdons pas espoir, il semblerait que son prix soit encore un peu élevé. Nous vous proposons de lui donner un dernier coup de pouce afin de le remettre en avant sur notre site, en baissant son prix de 10%.
+
+Rendez-vous sur votre espace client pour accepter ou refuser notre proposition.
+
+Si vous avez des questions, vous pouvez nous contacter au 01 72 60 01 61 ou via notre adresse mail contact@monogramparis.com.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

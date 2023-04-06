@@ -1,0 +1,206 @@
+#htpasswd
+#AuthUserFile /var/www/preprod2.monogramparis.com/.htpasswd
+#AuthType Basic
+#AuthName "MONOGRAM PREPROD"
+#Require valid-user
+
+RedirectMatch 301 ^/gb/.* https://www.monogramparis.com/fr/
+RedirectPermanent	/content/3-conditions-utilisation	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/content/7-emplois-disponibles	https://www.monogramparis.com/fr/content/7-emplois-disponibles
+RedirectPermanent	/fr/module/appndigital_calendrier/formulaire	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=4034 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=9759 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=3803 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=11676 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=1911 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=8812 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=13255 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=7492 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=3502 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=5486 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=3655 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=4034 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=4461 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/prendre-rdv-au-showroom?id_rendez_vous=3866 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/prendre-rdv-au-showroom?id_rendez_vous=1648 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/prendre-rdv-au-showroom?id_rendez_vous=8730 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/prendre-rdv-au-showroom?id_rendez_vous=6937 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/prendre-rdv-au-showroom?id_rendez_vous=13799 https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/module/depotvente/depotDescription	https://www.monogramparis.com/fr/
+RedirectPermanent	/content/3-conditions-utilisation	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/module/appndigital_calendrier/formulaire	https://www.monogramparis.com/fr/
+RedirectPermanent	/module/depotvente/depotDescription	https://www.monogramparis.com/fr/
+RedirectPermanent	/content/3-conditions-utilisation	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr?controller=404	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1017-gucci?page=3	https://www.monogramparis.com/fr/brand/26-gucci?page=3
+RedirectPermanent	/fr/1017-gucci?page=4	https://www.monogramparis.com/fr/brand/26-gucci?page=4
+RedirectPermanent	/fr/1017-gucci?page=5	https://www.monogramparis.com/fr/brand/26-gucci?page=5
+RedirectPermanent	/fr/1023-cosmetique	https://www.monogramparis.com/fr/1023-cosmetiques
+
+RedirectPermanent	/fr/1064-porte-cartes	https://www.monogramparis.com/fr/1231-portefeuilles
+RedirectPermanent	/fr/1076-le-luxe-accessible	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1097-genderless-is-more	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1099-la-selection-de-bev	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1106-petits-accessoires	https://www.monogramparis.com/fr/11-accessoires
+RedirectPermanent	/fr/1106-petits-accessoires?page=2	https://www.monogramparis.com/fr/11-accessoires
+RedirectPermanent	/fr/1106-petits-accessoires?page=3	https://www.monogramparis.com/fr/11-accessoires
+RedirectPermanent	/fr/1125-accessoires-star	https://www.monogramparis.com/fr/11-accessoires
+RedirectPermanent	/fr/1131-journees-privileges	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1134-l-univers-hermes	https://www.monogramparis.com/fr/1018-hermes
+RedirectPermanent	/fr/1135-mer-ou-montagne	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1141-category	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1159-100-marmont	https://www.monogramparis.com/fr/10-sacs
+RedirectPermanent	/fr/1161-sacs-a-bandouliere?page=2	https://www.monogramparis.com/fr/1187-sacs-a-bandouliere?page=2
+RedirectPermanent	/fr/1166-live	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1169-the-beach	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/1170-la-plage	https://www.monogramparis.com/fr/1235-la-plage
+RedirectPermanent	/fr/1179-shorts	https://www.monogramparis.com/fr/1224-shorts
+RedirectPermanent	/fr/1180-maillot-de-bain-1-piece	https://www.monogramparis.com/fr/1225-maillot-de-bain-1-piece
+RedirectPermanent	/fr/1181-maillot-de-bain-2-pieces	https://www.monogramparis.com/fr/1226-maillot-de-bain-2-pieces
+RedirectPermanent	/fr/1182-trench	https://www.monogramparis.com/fr/1227-trench
+RedirectPermanent	/fr/1189-mini-sac	https://www.monogramparis.com/fr/1190-mini-sacs
+RedirectPermanent	/fr/1189-mini-sac?page=2	https://www.monogramparis.com/fr/1190-mini-sacs?page=2
+RedirectPermanent	/fr/1190-casquette	https://www.monogramparis.com/fr/1228-casquettes
+RedirectPermanent	/fr/1191-accessoire-de-sac	https://www.monogramparis.com/fr/11-accessoires
+RedirectPermanent	/fr/1192-porte-monnaie	https://www.monogramparis.com/fr/1231-portefeuilles
+RedirectPermanent	/fr/1193-portefeuille	https://www.monogramparis.com/fr/1231-portefeuilles
+RedirectPermanent	/fr/1238-back-to-school	https://www.monogramparis.com/fr/1233-back-to-school
+RedirectPermanent	/fr/1238-back-to-school?page=2	https://www.monogramparis.com/fr/1233-back-to-school?page=2
+RedirectPermanent	/fr/1239-monogramme	https://www.monogramparis.com/fr/1234-monogramme
+RedirectPermanent	/fr/1239-monogramme?page=2	https://www.monogramparis.com/fr/1234-monogramme?page=2
+RedirectPermanent	/fr/1239-monogramme?page=3	https://www.monogramparis.com/fr/1234-monogramme?page=3
+RedirectPermanent	/fr/1241-weekend	https://www.monogramparis.com/fr/1236-weekend
+RedirectPermanent	/fr/1242-les-sacs-a-moins-de-500	https://www.monogramparis.com/fr/1237-les-sacs-a-moins-de-500
+RedirectPermanent	/fr/1242-les-sacs-a-moins-de-500?page=2	https://www.monogramparis.com/fr/1237-les-sacs-a-moins-de-500?page=2
+RedirectPermanent	/fr/1243-les-sacs-de-la-rentree	https://www.monogramparis.com/fr/1238-les-sacs-de-la-rentree
+RedirectPermanent	/fr/1243-les-sacs-de-la-rentree?page=2	https://www.monogramparis.com/fr/1238-les-sacs-de-la-rentree?page=2
+RedirectPermanent	/fr/1244-season-look	https://www.monogramparis.com/fr/1111-notre-selection
+RedirectPermanent	/fr/1244-season-look?page=2	https://www.monogramparis.com/fr/1111-notre-selection?page=2
+RedirectPermanent	/fr/1244-season-look?page=3	https://www.monogramparis.com/fr/1111-notre-selection?page=3
+RedirectPermanent	/fr/1244-season-look?page=5	https://www.monogramparis.com/fr/1111-notre-selection?page=5
+RedirectPermanent	/fr/1244-season-look?page=6	https://www.monogramparis.com/fr/1111-notre-selection?page=6
+RedirectPermanent	/fr/1245-fresh-from-store	https://www.monogramparis.com/fr/1240-fresh-from-store
+RedirectPermanent	/fr/1245-fresh-from-store?page=2	https://www.monogramparis.com/fr/1240-fresh-from-store?page=2
+RedirectPermanent	/fr/1247-avant-premiere	https://www.monogramparis.com/fr/1242-avant-premiere
+RedirectPermanent	/fr/1248-most-wanted	https://www.monogramparis.com/fr/1243-most-wanted
+RedirectPermanent	/fr/1248-most-wanted?page=2	https://www.monogramparis.com/fr/1243-most-wanted?page=2
+RedirectPermanent	/fr/1250-get-inspired	https://www.monogramparis.com/fr/1278-get-inspired
+RedirectPermanent	/fr/1250-get-inspired?page=2	https://www.monogramparis.com/fr/1278-get-inspired?page=2
+RedirectPermanent	/fr/1251-les-accessoires-de-la-saison	https://www.monogramparis.com/fr/1279-les-accessoires-de-la-saison
+RedirectPermanent	/fr/1251-les-accessoires-de-la-saison?page=2	https://www.monogramparis.com/fr/1279-les-accessoires-de-la-saison?page=2
+RedirectPermanent	/fr/1251-les-accessoires-de-la-saison?page=3	https://www.monogramparis.com/fr/1279-les-accessoires-de-la-saison?page=3
+RedirectPermanent	/fr/1252-street-style	https://www.monogramparis.com/fr/1280-street-style
+RedirectPermanent	/fr/1252-street-style?page=2	https://www.monogramparis.com/fr/1280-street-style??page=2
+RedirectPermanent	/fr/1252-street-style?page=3	https://www.monogramparis.com/fr/1280-street-style??page=3
+RedirectPermanent	/fr/32-autres?page=2	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/49-autres	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/50-fourrures	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/51-jupes-et-shorts	https://www.monogramparis.com/fr/51-jupes
+RedirectPermanent	/fr/51-jupes-et-shorts?page=2	https://www.monogramparis.com/fr/51-jupes?page=2
+RedirectPermanent	/fr/58-vestes-perfectos	https://www.monogramparis.com/fr/58-vestes
+RedirectPermanent	/fr/58-vestes-perfectos?page=2	https://www.monogramparis.com/fr/58-vestes?page=2
+RedirectPermanent	/fr/58-vestes-perfectos?page=3	https://www.monogramparis.com/fr/58-vestes?page=3
+RedirectPermanent	/fr/58-vestes-perfectos?page=4	https://www.monogramparis.com/fr/58-vestes?page=4
+RedirectPermanent	/fr/59-autres	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/60-sacs-louis-vuitton?page=3	https://www.monogramparis.com/fr/1020-louis-vuitton?page=3
+RedirectPermanent	/fr/66-autre	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/accueil/26832-authentification.html	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/brand/-	https://www.monogramparis.com/fr/brands
+RedirectPermanent	/fr/brand/200-rainbow-k	https://www.monogramparis.com/fr/brands
+RedirectPermanent	/fr/content/3-conditions-utilisation	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/content/7-emplois-disponibles	https://www.monogramparis.com/fr/content/7-emplois-disponibles
+RedirectPermanent	/fr/index.php?controller=404	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/module/appndigital_calendrier/formulaire	https://www.monogramparis.com/fr/prendre-rdv-au-showroom
+RedirectPermanent	/fr/module/depotvente/depotDescription	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/module/pm_advancedsearch4/module-pm_advancedsearch4-seo?id_seo=10&seo_url=chanel-jewellery	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/module/pm_advancedsearch4/module-pm_advancedsearch4-seo?id_seo=13&seo_url=saintlaurent-shoes	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/module/pm_advancedsearch4/module-pm_advancedsearch4-seo?id_seo=6&seo_url=chanel-bags	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/module/pm_advancedsearch4/module-pm_advancedsearch4-seo?id_seo=9&seo_url=bags-dior	https://www.monogramparis.com/fr/
+RedirectPermanent	/fr/robes/7465-robe-t38.html	https://www.monogramparis.com/fr/pret-a-porter/7465-robe-t38.html
+RedirectPermanent	/fr/sneakers/7255--baskets-t37.html	https://www.monogramparis.com/fr/chaussures/7255--baskets-t37.html
+RedirectPermanent	/fr/vestes-perfectos/7749--doudoune-t0.html	https://www.monogramparis.com/fr/vestes/7749--doudoune-t0.html
+RedirectPermanent	/fr/vestes-perfectos/8082--veste-bomber-t38.html	https://www.monogramparis.com/fr/pret-a-porter/8082--veste-bomber-t38.html
+RedirectPermanent	/fr/vestes-perfectos/8415-perfecto-t40.html	https://www.monogramparis.com/fr/vestes/8415-perfecto-t40.html
+RedirectPermanent	/module/depotvente/depotDescription	https://www.monogramparis.com/fr/
+<IfModule mod_rewrite.c>
+    RewriteCond %{REQUEST_URI} ^.*switchcolor/views/css/front\.css$
+    RewriteRule (.*) $1\?t=%{TIME} [L]
+</IfModule>
+
+<FilesMatch "front\.css$">
+    FileETag None
+    <IfModule mod_headers.c>
+        Header unset ETag
+        Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+        Header set Pragma "no-cache"
+        Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
+    </IfModule>
+</FilesMatch>
+
+# ~~start~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again
+# .htaccess automaticaly generated by PrestaShop e-commerce open-source solution
+# http://www.prestashop.com - http://www.prestashop.com/forums
+
+<IfModule mod_rewrite.c>
+<IfModule mod_env.c>
+SetEnv HTTP_MOD_REWRITE On
+</IfModule>
+
+RewriteEngine on
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule . - [E=HTTP_AUTHORIZATION:%1]
+
+
+
+#Domain: preprod2.monogramparis.com
+RewriteRule . - [E=REWRITEBASE:/]
+RewriteRule ^api$ api/ [L]
+
+RewriteRule ^api/(.*)$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
+
+# Images
+RewriteRule ^([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$1$2$3.jpg [L]
+RewriteRule ^([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$1$2$3.webp [L]
+RewriteRule ^([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$2/$1$2$3$4.jpg [L]
+RewriteRule ^([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$2/$1$2$3$4.webp [L]
+RewriteRule ^([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$1$2$3$4$5.jpg [L]
+RewriteRule ^([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$1$2$3$4$5.webp [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$1$2$3$4$5$6.jpg [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$1$2$3$4$5$6.webp [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$1$2$3$4$5$6$7.jpg [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$1$2$3$4$5$6$7.webp [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$6/$1$2$3$4$5$6$7$8.jpg [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$6/$1$2$3$4$5$6$7$8.webp [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$6/$7/$1$2$3$4$5$6$7$8$9.jpg [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$6/$7/$1$2$3$4$5$6$7$8$9.webp [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$6/$7/$8/$1$2$3$4$5$6$7$8$9$10.jpg [L]
+RewriteRule ^([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])([0-9])(\-[_a-zA-Z0-9-]*)?(-[0-9]+)?/.+\.webp$ %{ENV:REWRITEBASE}img/p/$1/$2/$3/$4/$5/$6/$7/$8/$1$2$3$4$5$6$7$8$9$10.webp [L]
+RewriteRule ^c/([0-9]+)(\-[\.*_a-zA-Z0-9-]*)(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/c/$1$2$3.jpg [L]
+RewriteRule ^c/([a-zA-Z_-]+)(-[0-9]+)?/.+\.jpg$ %{ENV:REWRITEBASE}img/c/$1$2.jpg [L]
+# AlphaImageLoader for IE and fancybox
+RewriteRule ^images_ie/?([^/]+)\.(jpe?g|png|gif)$ js/jquery/plugins/fancybox/images/$1.$2 [L]
+
+# Dispatcher
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [NC,L]
+RewriteRule ^.*$ %{ENV:REWRITEBASE}index.php [NC,L]
+</IfModule>
+
+AddType application/vnd.ms-fontobject .eot
+AddType font/ttf .ttf
+AddType font/otf .otf
+AddType application/font-woff .woff
+AddType font/woff2 .woff2
+<IfModule mod_headers.c>
+	<FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|svg)$">
+		Header set Access-Control-Allow-Origin "*"
+	</FilesMatch>
+</IfModule>
+
+#If rewrite mod isn't enabled
+ErrorDocument 404 /index.php?controller=404
+
+# ~~end~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again
+

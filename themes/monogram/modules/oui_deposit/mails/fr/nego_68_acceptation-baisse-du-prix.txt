@@ -1,0 +1,27 @@
+DEMANDE DE DÉPÔT
+
+Bonjour {firstname}, 
+
+Nous vous remercions d’avoir accepté de baisser le prix de votre article n° {id_depot} {depot_descriptif_total}, nous sommes certains que cela boostera sa vente !
+
+Nous vous confirmons que votre article {id_depot} {depot_descriptif_total} est désormais déposé au prix de {wholesale_price} € net pour vous.
+
+Retrouvez le détail de cette modification dans l'avenant à votre contrat de dépôt.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

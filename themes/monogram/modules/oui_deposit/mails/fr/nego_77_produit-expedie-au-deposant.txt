@@ -1,0 +1,26 @@
+Bonjour {firstname},
+
+Nous vous confirmons que votre article n° {id_depot} {depot_descriptif_total} vous a bien été renvoyé par colis, par l’équipe MONOGRAM.
+Vous pourrez suivre l’expédition de votre retour à l’aide de ce numéro de suivi {num_suivi}.
+
+Nous regrettons que votre article n’ait pas trouvé d’acheteur, mais nous vous invitons à nous proposer de nouvelles pièces de votre dressing. Nous sommes sûrs que votre vestiaire cache encore de petits trésors !
+
+Si vous avez des questions, vous pouvez nous contacter au 01 72 60 01 61 ou via notre adresse mail contact@monogramparis.com.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

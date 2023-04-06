@@ -1,0 +1,279 @@
+/**
+                        * 2008 - 2020 (c) Prestablog
+                        *
+                        * MODULE PrestaBlog
+                        *
+                        * @author    Prestablog
+                        * @copyright Copyright (c) permanent, Prestablog
+                        * @license   Commercial
+*/
+#blog_list_1-7 li{
+    width: 33.3333% !important;
+    margin-bottom: 40px;
+}
+#blog_list_1-7 .blog-grid .block_bas{
+    bottom: 3em;
+    position: absolute;
+    padding: 0;
+    left: 20px;
+    right: 20px;
+    max-width: 100%;
+    width: auto;
+}
+/*h1.blog-title-all,*/ 
+.prestablog_desc, .prestablog_more .material-icons, .prestablogExtra{
+    display: none;
+}
+#blog_list_1-7 .prestablog_more .blog_link{
+    display: contents;
+}
+#blog_list_1-7 li:hover .block_cont .block_top img{
+    -webkit-transform: none;
+    transform: none;
+}
+#blog_list_1-7 .prestablog_more {
+    background-color: transparent;
+    text-decoration: underline;
+}
+#blog_list_1-7 .block_bas h3 a {
+    color: #ffffff !important;
+    font-size: 43px;
+    line-height: 35px;
+    font-weight: normal;
+    font-family: 'OPTIPermanentHeadline';
+    text-transform: uppercase;
+}
+#blog_list_1-7 li .block_cont .block_top img{
+    object-fit: cover !important;
+    height: 500px;
+    object-position: center;
+}
+#_prestablog_index, .date_blog-cat{
+    display: none;
+}
+a.categorie_blog{
+    background-color: white;
+    color: black;
+    border-radius:30px;
+}
+#module-prestablog-actualites,
+#module-prestablog-actualites #wrapper,
+#module-prestablog-blog,
+#module-prestablog-blog #wrapper{
+    background: #fff;
+}
+#module-prestablog-actualites #wrapper .breadcrumb,
+#module-prestablog-blog #wrapper .breadcrumb {
+    padding: 20px 40px 0;
+    position: absolute;
+    top: auto;
+    display: block;
+}
+#module-prestablog-actualites #wrapper .breadcrumb li:first-child,
+#module-prestablog-blog #wrapper .breadcrumb li:first-child{
+    display: none;
+}
+#module-prestablog-actualites #wrapper .breadcrumb li,
+#module-prestablog-actualites #wrapper .breadcrumb li a,
+#module-prestablog-actualites #wrapper .breadcrumb li span,
+#module-prestablog-blog #wrapper .breadcrumb li,
+#module-prestablog-blog #wrapper .breadcrumb li a,
+#module-prestablog-blog #wrapper .breadcrumb li span{
+    font-size: 10px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #000;
+}
+#module-prestablog-actualites #wrapper .breadcrumb li:after,
+#module-prestablog-blog #wrapper .breadcrumb li:after{
+    margin: 0 -1px 0 2px;
+    color: #000;
+}
+#module-prestablog-actualites #wrapper .breadcrumb li a,
+#module-prestablog-blog #wrapper .breadcrumb li a{
+    color: #898989;
+}
+#module-prestablog-actualites #wrapper .container,
+#module-prestablog-blog #wrapper .container{
+    padding: 0;
+    max-width: 100%;
+}
+#module-prestablog-actualites #wrapper .container .container,
+#module-prestablog-blog #wrapper .container .container{
+    max-width: 1500px;
+}
+#module-prestablog-actualites #wrapper .container .article-in-front .container,
+#module-prestablog-blog #wrapper .container .article-in-front .container{
+    max-width: 100%;
+    padding-left: calc(calc(100% - 1500px) / 2);
+    width: 100%;
+}
+#prestablogfront{
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    max-width: 630px;
+}
+#blog_list_1-7 .block_cont{
+    border: none;
+    position: relative;
+}
+
+.blogtopbanner{
+    margin-bottom: 50px;
+}
+.blogtopbanner .container{
+    padding-right: 0;
+}
+.blogtopbanner .blogtopcover{
+    align-items: center;
+    align-content: center;
+}
+.blogtopbanner .blogtopcover .banner_title,
+.blogtopbanner .blogtopcover .desc_banner{
+    width: 100%;
+}
+.blogtopbanner .blogtopcover .desc_banner p,
+.blogtopbanner .blogtopcover .desc_banner{
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    font-family: 'ApercuLight';
+}
+.blogtopbanner .blogtopcover .desc_banner{
+    margin-bottom: 20px;
+}
+.blogtopbanner .blogtopcover .desc_banner p:last-child{
+    margin: 0;
+}
+.blogtopbanner .blogtopcover .banner_title{
+    color: #000;
+    font-size: 49px;
+    line-height: 52px;
+    font-weight: normal;
+    font-family: 'OPTIPermanentHeadline';
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.blogtopbanner .blogtopcover .blogbanner_texte{
+    padding-left: 50px;
+    padding-right: 100px;
+}
+.blogtopbanner .blogtopcover .blogtopbanner_image{
+    padding-right: 0;
+}
+.catofpost {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    z-index: 1;
+    background: none;
+}
+.catofpost a{
+    color: #000 !important;
+    font-size: 13px;
+    border: 1px solid #000000;
+    border-radius: 14px;
+    line-height: 21px;
+    padding: 0 15px !important;
+    width: auto !important;
+    text-decoration: none !important;
+}
+.post_banner{
+    width: 100%;
+    text-align: center;
+    height: 456px;
+    margin-bottom: 50px;
+}
+.post_banner img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+article#prestablogfront,
+article#prestablogfront p{
+    font-size: 16px;
+    line-height: 24px;
+}
+article#prestablogfront h5,
+article#prestablogfront h4,
+article#prestablogfront h3,
+article#prestablogfront h2{
+    color: #000;
+    margin: 50px 0 20px;
+    font-family: 'Oswald', sans-serif;
+    border: none;
+    text-align: left;
+    padding: 0;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 700;
+}
+article#prestablogfront h1{
+    font-size: 49px;
+    line-height: 52px;
+    font-weight: normal;
+    font-family: 'OPTIPermanentHeadline';
+    text-transform: uppercase;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 30px;
+}
+@media (min-width: 1200px){
+    #module-prestablog-actualites #wrapper .container .article-in-front .container,
+    #module-prestablog-blog #wrapper .container .article-in-front .container{
+        padding-left: calc(calc(100% - 1500px) / 2);
+    }
+}
+@media (max-width: 1199px){
+    .blogtopbanner .blogtopcover .blogbanner_texte{
+        padding-left: 15px;
+        padding-right: 30px;
+    }
+    .blogtopbanner .blogtopcover .banner_title{
+        margin-bottom: 20px;
+    }
+    #module-prestablog-actualites #wrapper .container .article-in-front .container,
+    #module-prestablog-blog #wrapper .container .article-in-front .container{
+        padding-left: 0;
+    }
+}
+@media (max-width: 991px){
+    .blogtopbanner .container {
+        padding: 0;
+    }
+    .blogtopbanner .blogtopcover .blogbanner_texte {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100%;
+    }
+    .blogtopbanner .blogtopcover .blogtopbanner_image {
+        padding: 0 0 30px;
+        width: 100%;
+    }
+    .blogtopbanner .blogtopcover .banner_title {
+        font-size: 40px;
+        line-height: 42px;
+        margin-bottom: 20px;
+    }
+    .blogtopbanner .blogtopcover {
+        flex-direction: column-reverse;
+    }
+    #blog_list_1-7 li{
+        width: 50% !important;
+        margin-bottom: 40px;
+    }
+}
+@media (max-width: 575px){
+    #blog_list_1-7 li{
+        width: 100% !important;
+        margin-bottom: 25px;
+    }
+}
+
+
+
+
+

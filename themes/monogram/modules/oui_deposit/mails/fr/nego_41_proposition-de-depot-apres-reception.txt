@@ -1,0 +1,26 @@
+Bonjour {firstname},
+
+Nous avons bien reçu votre article {depot_descriptif_total}
+
+Néanmoins celui-ci ne correspond pas à nos critères d’achat ferme de notre catalogue. Nous pouvons cependant envisager un dépôt au prix de {prix_proposition} € net pour vous.
+
+Pour valider notre proposition et mettre en vente votre article au plus vite sur notre site, veuillez vous connecter à votre compte dans la section « Mes Dépôts ».
+Notre réponse vous parviendra sous 48h (2 jours ouvrés).
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

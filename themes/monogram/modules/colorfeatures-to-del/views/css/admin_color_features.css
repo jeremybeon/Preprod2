@@ -1,0 +1,28 @@
+/** Features */
+#feature_value_form .colorAttributeProperties {
+    display: none;
+}
+
+#mColorPickerImg{background-image: url("../img/admin/colorpicker.png") !important;}
+#mColorPickerImgGray{background-image: url("../img/admin/graybar.jpg") !important;}
+#mColorPickerFooter{background-image: url("../img/admin/grid.gif") !important;}
+
+/** Products */
+.af_replaced{
+    float: left;
+    padding: 3px;
+}
+.af_replaced input[type="radio"]{
+    display: none;
+}
+
+.af_replaced input[type="radio"] + label{
+    width: 19px;
+    height: 19px;
+    border: 1px solid #2b2b2b;
+    opacity: 0.6;
+}
+.af_replaced input[type="radio"]:checked + label {
+    opacity: 1;
+    box-shadow: 1px 1px 5px;
+}

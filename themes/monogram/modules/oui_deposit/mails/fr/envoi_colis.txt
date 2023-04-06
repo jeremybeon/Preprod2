@@ -1,0 +1,9 @@
+Confirmation de l'envoi par colis pour {shop_name}
+
+Vous avez choisi d'envoyer votre article par colis. 
+Ci-dessous les renseignements concernant l'adresse de destination: 
+Avenue Kléber, 75016 Paris
+
+Contact: 
++33 (0) 1 80 06 37 92
+contact@byluxe.fr

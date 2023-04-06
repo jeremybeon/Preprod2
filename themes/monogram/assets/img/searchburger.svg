@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.043" height="25.051" viewBox="0 0 38.043 25.051">
+  <g id="Groupe_8379" data-name="Groupe 8379" transform="translate(3198.263 -5146.796)">
+    <g id="icn_burger-menu" data-name="icn/burger-menu" transform="translate(-3197.263 5153.786)">
+      <path id="Line" d="M.737,2.267h9.37" transform="translate(-0.737 -2.267)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Line_Copy" data-name="Line Copy" d="M.737,2.267h9.37" transform="translate(-0.737 3.265)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Line_Copy_2" data-name="Line Copy 2" d="M.737,2.267H11.9" transform="translate(-0.737 8.796)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="icn_search-white" data-name="icn/search-white" transform="translate(-3180.928 5147.265) rotate(11)">
+      <path id="Shape" d="M19.944,20.556a.62.62,0,0,1-.433-.182l-5-5a8.783,8.783,0,1,1,.866-.867l5,5a.615.615,0,0,1,0,.867A.6.6,0,0,1,19.944,20.556ZM8.762,1.231A7.537,7.537,0,1,0,16.3,8.765,7.544,7.544,0,0,0,8.762,1.231Z" transform="translate(0 0)" stroke="#000" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+  </g>
+</svg>

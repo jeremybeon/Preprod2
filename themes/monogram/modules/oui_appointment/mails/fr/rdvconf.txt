@@ -1,0 +1,8 @@
+Confirmation du rendez-vous au showroom de {shop_name}
+
+Vous avez pris rendez-vous pour aller à notre showroom.
+Ci-dessous un rappel des détails de votre rendez-vous:
+
+Motif: {motif}
+Date et heure: {datetime}
+Adresse: 6 rue de la Trémoille, 75 008 Paris

@@ -1,0 +1,23 @@
+Bonjour {firstname},
+
+Félicitations ! Suite à votre visite au Showroom, nous vous confirmons que votre article {depot_descriptif_total} a été validé en dépôt au prix de {wholesale_price} € net pour vous.
+
+Nous restons à votre disposition pour toute précision en nous contactant au 01 72 60 01 61 ou via notre adresse mail contact@monogramparis.com.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

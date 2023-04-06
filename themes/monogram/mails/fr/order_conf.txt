@@ -1,0 +1,26 @@
+Bonjour {firstname},
+
+Votre commande N° {order_name} du {date} a bien été prise en compte, merci pour votre confiance ! J’espère qu’elle vous apportera une entière satisfaction.
+
+Vous serez très prochainement informé(e) de son expédition par email.
+Vous trouverez également en pièce-jointe votre facture ainsi que votre certificat d’authenticité.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+- - - - - - - - - - - - - - -
+
+Vous pouvez accéder à tout moment au suivi de votre commande et
+télécharger votre facture dans "Historique des commandes"
+[{history_url}] de la rubrique "Mon compte"
+[{my_account_url}] sur notre site. 
+
+Si vous avez un compte invité, vous pouvez suivre votre commande
+dans la section "Suivi invité"
+[{guest_tracking_url}?id_order={order_name}] de
+notre site. 
+
+{shop_name} [{shop_url}]
+

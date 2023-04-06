@@ -1,0 +1,25 @@
+Bonjour {firstname},
+
+Votre article n° {id_depot} {depot_descriptif_total} est en ligne sur notre site depuis plus de 30 jours.
+Pour le remettre en avant sur notre site, et lui donner toutes ses chances d’être vendu, nous vous proposons de baisser son prix de 10%.
+
+Rendez-vous sur votre espace client pour accepter ou refuser notre proposition.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

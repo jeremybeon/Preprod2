@@ -1,0 +1,29 @@
+DEMANDE DE DÉPÔT
+
+Bonjour {firstname},
+
+Nous nous permettons de revenir vers vous concernant votre article n° {id_depot}.
+
+Malgré nos mises en avant, votre article ne s’est pas vendu. 
+Etant donné la date depuis laquelle votre article est en dépôt chez Monogram, 2 options s’offrent à vous à ce jour : vous pouvez décider de venir récupérer votre article sous 15 jours, ou bien de lui donner une dernière chance de trouver une acheteuse. Nous pensons que le prix actuel est trop élevé, nous vous proposons donc de baisser le prix de vente finale à moins de 100€ sur notre réseau Monogram, tout en vous assurant un prix de dépôt de 50€ net pour vous.
+
+Sans réponse de votre part sous 21 jours, nous nous verrons obligés d'appliquer cette baisse de prix afin de vendre votre dépôt.
+
+Dans l’attente de votre réponse, nous restons à votre disposition pour toute question.
+
+Merci pour votre confiance,
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

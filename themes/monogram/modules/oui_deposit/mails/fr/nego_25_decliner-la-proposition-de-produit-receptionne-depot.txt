@@ -1,0 +1,23 @@
+Bonjour {firstname},
+
+Votre article n° {id_depot} {depot_descriptif_total} ne correspond pas aux critères de sélection de notre catalogue car {raison}.
+
+Votre article est donc disponible au showroom pour une récupération.
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

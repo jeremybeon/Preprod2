@@ -1,0 +1,38 @@
+Bonjour {firstname}, 
+
+Félicitations, votre proposition de prix de {wholesale_price} € net pour vous a été validée, pour le dépôt n° {id_depot} {depot_descriptif_total}
+
+Pour nous faire parvenir votre article, deux possibilités s’offrent à vous :
+
+1 - PAR VOIE POSTALE
+
+En adressant votre colis* à l’adresse suivante :
+
+SBL-MNGRM
+Dépôt n° {id_depot}
+6, RUE DE LA TREMOILLE
+75008 PARIS.
+
+*Depuis votre espace client nous vous demanderons alors d’indiquer le n° de suivi de votre colis.
+
+2 - EN PRENANT RENDEZ-VOUS AU SHOWROOM PARISIEN
+
+Après avoir choisi l’une des deux possibilités, merci de confirmer votre choix depuis votre compte en cliquant sur « Mes dépôts ».
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris
+
+------Votre compte--------
+
+Voici les informations relatives à votre compte* : 
+Prénom : {firstname}
+Nom : {lastname}
+Email : {customer_mail}
+Téléphone : {customer_phone}
+
+*Si vous constatez une erreur, merci de vous connecter à votre compte client et de corriger les informations. 
+{my_account_url}
+
+

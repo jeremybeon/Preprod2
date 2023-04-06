@@ -1,0 +1,17 @@
+Bonjour {firstname},
+
+Nous avons bien reçu votre demande de dépôt {depot_descriptif_total}
+
+Vous avez reçu un message de Monogram Paris au sujet du dépôt : 
+{depot}
+
+Voici le contenu du message:
+{message}
+
+Vous pouvez cliquer ci-dessous pour répondre :
+{link}
+
+Merci pour votre confiance, 
+A très bientôt sur notre site, 
+
+L’équipe MONOGRAM Paris

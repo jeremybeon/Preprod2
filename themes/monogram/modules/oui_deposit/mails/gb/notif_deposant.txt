@@ -1,0 +1,12 @@
+Bonjour {firstname} {lastname}, 
+
+Nous avons le plaisir de vous informer que votre article {product_name} à été vendu par notre équipe BYLUXE.
+Je procède ce jour à un virement d’un montant de {amount} sur l’IBAN fourni lors de votre dépôt.
+
+Je me tiens à votre disposition pour tout renseignement complémentaire, 
+
+Rebecca Ruimy
+
+Contact: 
++33 (0) 1 80 06 37 92
+contact@byluxe.fr
